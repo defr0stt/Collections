@@ -1,4 +1,5 @@
-Collections
+# Collections
+
 Hello everyone!
 
 This repository consists some types of collections in Java what realised.🧐👌
